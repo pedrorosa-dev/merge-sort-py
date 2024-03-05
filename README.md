@@ -16,21 +16,22 @@ O principal objetivo deste repositório é fornecer uma implementação clara e 
 ## Como Usar
 
 1. Clone o repositório para o seu ambiente local.
-    ```bash
-    git clone https://github.com/pedrorosa-dev/merge-sort-py.git
-    ```
+
+   ```bash
+   git clone https://github.com/pedrorosa-dev/merge-sort-py.git
+   ```
 
 2. Explore o código-fonte na pasta `src/` e os exemplos na pasta `examples/`.
 
 3. Execute os casos de teste para garantir a eficiência da implementação.
-    ```bash
-    # Comandos para executar os testes, se aplicável
-    ```
 
-4. Consulte a documentação para obter informações detalhadas sobre o Merge Sort e suas aplicações.
-    ```bash
-    # Comandos para abrir ou gerar a documentação
-    ```
+   ```bash
+   # Comandos para executar os testes, se aplicável
+   ```
+
+   ## Documentação
+
+Para informações mais detalhadas, consulte [docs.md](./docs/docs.md).
 
 ## Contribuições
 
