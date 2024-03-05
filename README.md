@@ -17,7 +17,7 @@ O principal objetivo deste repositório é fornecer uma implementação clara e 
 
 1. Clone o repositório para o seu ambiente local.
     ```bash
-    git clone https://github.com/seu-usuario/MergeSortMagic.git
+    git clone https://github.com/pedrorosa-dev/merge-sort-py.git
     ```
 
 2. Explore o código-fonte na pasta `src/` e os exemplos na pasta `examples/`.
