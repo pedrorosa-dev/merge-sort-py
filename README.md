@@ -8,10 +8,8 @@ O principal objetivo deste repositório é fornecer uma implementação clara e 
 
 ## Recursos
 
-- **Implementação Modular:** Código organizado e fácil de entender para facilitar a compreensão do funcionamento do Merge Sort.
-- **Exemplos e Testes:** Conjunto abrangente de exemplos de uso e casos de teste para validar a eficácia da implementação.
 - **Documentação Detalhada:** Explicação clara do funcionamento interno do Merge Sort, suas vantagens e possíveis otimizações.
-- **Integração Potencial:** Exploração de oportunidades de integração com outras estruturas de dados e algoritmos.
+
 
 ## Como Usar
 
