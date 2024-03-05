@@ -23,15 +23,9 @@ O principal objetivo deste repositório é fornecer uma implementação clara e 
 
 2. Explore o código-fonte na pasta `src/` e os exemplos na pasta `examples/`.
 
-3. Execute os casos de teste para garantir a eficiência da implementação.
-
-   ```bash
-   # Comandos para executar os testes, se aplicável
-   ```
-
    ## Documentação
 
-Para informações mais detalhadas, consulte [docs.md](./docs/docs.md).
+Para informações mais detalhadas, consulte [DOCUMENTAÇÃO](./docs/docs.md).
 
 ## Contribuições
 
