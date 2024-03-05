@@ -1,9 +1,7 @@
 from src.merge import merge_sort
 
-
 def main():
     numeros = []
-
     while True:
         try:
             num = input("Digite um número (ou 's' para parar): ")
