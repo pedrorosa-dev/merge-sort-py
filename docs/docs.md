@@ -29,23 +29,23 @@ merge-sort-py/
 
 1. merge.py
 
-- **O módulo merge.py contém a implementação do algoritmo de ordenação merge_sort. A função merge_sort utiliza o método de ordenação por fusão para ordenar uma lista.
+- **O módulo merge.py contém a implementação do algoritmo de ordenação merge_sort. A função merge_sort utiliza o método de ordenação por fusão para ordenar uma lista.**
 
 2. user.py
 
-- **No módulo user.py, a função merge_sort do módulo merge é importada. Este módulo contém a lógica do usuário para interagir com o programa.
+- **No módulo user.py, a função merge_sort do módulo merge é importada. Este módulo contém a lógica do usuário para interagir com o programa.**
 
 3. main.py
 
-- **O arquivo main.py importa as funções e classes do módulo user e inicia o programa chamando a função main do módulo user.
+- **O arquivo main.py importa as funções e classes do módulo user e inicia o programa chamando a função main do módulo user.**
 
 ## Uso do Programa
 
-- **O usuário é solicitado a inserir números continuamente. Para encerrar a entrada de números, o usuário pode digitar 's'. Apos encerrar o programa, ira mostrar a lista original e a lista com o merge sort.
+- **O usuário é solicitado a inserir números continuamente. Para encerrar a entrada de números, o usuário pode digitar 's'. Apos encerrar o programa, ira mostrar a lista original e a lista com o merge sort.**
 
 ## Execução do Programa
 
-- **Execute o programa a partir do diretório principal e no arquivo main.py usando o seguinte comando no terminal :
+- **Execute o programa a partir do diretório principal e no arquivo main.py usando o seguinte comando no terminal :**
 
 ```bash
 python3  main.py
