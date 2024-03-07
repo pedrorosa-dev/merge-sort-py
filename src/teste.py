@@ -16,7 +16,7 @@ while num != aleat:
         print("maior")
         num = int(input("tente descobrir um número entre 0 e 100: "))
         shot += 1
-    shots.append(shot)
+    shots.append(num)
 
 print("acertou o número em {} tentativas".format(shot))
 print("você tentou os seguintes numeros: {}".format(shots))
